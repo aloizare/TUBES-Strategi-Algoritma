@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	nums := []int{2, 7, 9, 3, 1}                                   //masukkan nilai-nilai rumah di sini {2, 7, 9, 3, 1} bisa diganti dengan nilai rumah yang diinginkan
+	nums := []int{2, 7, 9, 3, 1} //masukkan nilai-nilai rumah di sini {2, 7, 9, 3, 1} bisa diganti dengan nilai rumah yang diinginkan
 
 	start := time.Now()
 	result := rob(nums)
