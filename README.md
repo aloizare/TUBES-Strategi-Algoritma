@@ -62,7 +62,7 @@ Hasil pengujian berupa waktu eksekusi dalam milidetik (ms) sebagai berikut
 | Jumlah rumah  | Greedy        | Dynamic Programming |
 | ------------- | ------------- | ------------------- |
 | 5 | 0.0002 | 0.00019 |
-| 100  | 0.00037 | 0.00037 |
+| 100  | 0.00037 | 0.00022 |
 | 500  | 0.00087  | 0.00047 |
 | 1000  | 0.00143  | 0.00073 |
 
